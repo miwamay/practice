@@ -1,0 +1,16 @@
+■iSara模写用
+============================
+<style>
+.introduction, .about, .aboutthird, .learning, .merit, .why, .answer, .classbottom, .flow, .bangkok, .special, .specialdetail, .learning {
+  display: none;
+}
+</style>
+============================
+
+■間隔ルール
+## ①兄弟要素のスペース
+- 左右に並ぶ兄弟要素の間のスペースは、左要素のmargin-rightでつくる
+- 上下に並ぶ兄弟要素の間のスペースは、上要素のmargin-bottomでつくる
+## ②親要素と子要素のスペース
+- 親要素のpaddingでつくる
+
